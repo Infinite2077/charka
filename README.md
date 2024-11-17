@@ -1,5 +1,5 @@
 # This is my repository
-## My name is Mrpuzzle
+## My name is Mr Puzzle
 ![there is my picture](![alt text](image.png))
 #### I'm javascript developer. 
 **I'm Sigma** *There is Example of my code:*
